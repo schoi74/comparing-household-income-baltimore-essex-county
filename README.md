@@ -1,9 +1,13 @@
 # Comparing Household income and Employement rate in baltimore city and Essex county
 
-Background
+## Background
 
-# Background Question
+## Business Question
 
-# Data Question
+## Data Question - Open Data
 
-# Data Answer
+## Data Question - Analysis
+
+## Data Answer
+
+## Business Answer
