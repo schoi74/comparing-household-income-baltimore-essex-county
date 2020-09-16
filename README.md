@@ -1,4 +1,4 @@
-# Comparing Household income and Employement rate in baltimore city and Essex county
+# Comparing Household income and Employement rate in Baltimore, MD and Essex county, MA
 
 ## Background
 
