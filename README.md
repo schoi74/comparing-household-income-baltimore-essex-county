@@ -10,7 +10,7 @@ As Wells mentions how the studys' authors did not make any straightforward recom
 _How can Baltimore city and Essex County, MA both decrease the economic gap of household income between the black and white families, and what metrics should the cities measure to monitor their progress and how does geography and demographics affect the disparity between racial communities?_
 ## Data Question - Open Data
 We'll use open data from one source:
-- Opportunity Atlas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) We will be using eight datasets from this platform:
+- Opportunity Atlas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) We will be using four datasets from this platform:
   
      i. Baltimore: Original open data on household income for black and white families in Baltimore, MD.
      
