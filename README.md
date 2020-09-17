@@ -33,7 +33,7 @@ We will use Microsoft Excel to answer these questions:
 ## Data Answer
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
-![alt text]()
+![alt text](https://github.com/schoi74/comparing-household-income-baltimore-essex-county/blob/master/black%20and%20white%20in%20essex1.png)
 
 Here, just like the visualization and data of black families in each city, we first notice the massive sample size difference between black and white families in Essex County. As Essex County is considered to be a predominantly white county, the racial diversity is not as profound as that in Baltimore. Even though a similar sample and data size would be more clear to compare and evaluate, we can derive that the household income of white families is significantly higher than that of black families, just like Baltimore. This gives us an overall idea of the status-quo mentioned in the [article](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-racial-wealth-divide-20170130-story.html) and an ideal starting point for CFED or any developmental enterprises can dig deeper to provide equal and just opportunities for all racial groups within cities and neighborhoods.
 
