@@ -7,7 +7,7 @@ As Wells mentions how the studys' authors did not make any straightforward recom
 
 ![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/black%20and%20white%20in%20baltimore.png)
 ## Business Question
-_How can Baltimore city and Essex County, MA both decrease the economic gap of household income between the black and white families, and what metrics should the cities measure to monitor their progress?_
+_How can Baltimore city and Essex County, MA both decrease the economic gap of household income between the black and white families, and what metrics should the cities measure to monitor their progress and how does geography and demographics affect the disparity between racial communities?_
 ## Data Question - Open Data
 We'll use open data from one source:
 - Opportunity Atlas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) We will be using eight datasets from this platform:
@@ -33,13 +33,16 @@ We will use Microsoft Excel to answer these questions:
 ## Data Answer
 
 ### What are the mean household incomes in each city?
-![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/average.png)
+![alt text]()
+
+Here we can see that the household incomes for both black and white families from Essex County are higher than those from Baltimore, MD. Also, within each city, the household income is significantly greater for white families than that of black families. This gives us an overall idea of how geography and race impact the household income and where the cities can start alleviating the disparities in the near future.
 
 ### How does the household income compare for the black families in each city?
-![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/household%20income%20(black).png)
+![alt text]()
+Here we first notice the sample size difference of black families from Baltimore and Essex County as there are almost double the black families in Baltimore than Essex County. On top of that, the household income for black families from Essex County are generally greater than those from Baltimore. 
 
 ### How does the household income compare for the white families in each city?
-![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/household%20income%20(white).png)
+![alt text]()
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
 ![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/black%20and%20white%20in%20essex.png)
