@@ -45,7 +45,7 @@ We will use Microsoft Excel to answer these questions:
 ![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/black%20and%20white%20in%20essex.png)
 
 ### What are the highest average household income from black and white families in each city?
-![alt text]()
+![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/highest%20average.png)
 
 ## Business Answer
 
