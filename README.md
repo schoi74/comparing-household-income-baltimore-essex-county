@@ -1,4 +1,4 @@
-# Household income of the black and white communities in Baltimore, MD and Essex county, MA with Opportunity Atlas Data
+# Household Income of the Black and White Communities in Baltimore, MD and Essex county, MA with Opportunity Atlas Data
 
 ## Background
 
