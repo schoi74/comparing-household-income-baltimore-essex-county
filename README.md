@@ -48,7 +48,7 @@ Here we can see that the household incomes for both black and white families fro
 Here we first notice the sample size of black families from Baltimore is almost double the black families in Essex County. Even though similar sample sizes would be ideal to more accurately compare the household income demographics in each city, we can safely assume that geography plays a role. On top of that, the household income for black families from Essex County are generally greater than those from Baltimore. 
 
 ### How does the household income compare for the white families in each city?
-![alt text]()
+![alt text](https://github.com/schoi74/comparing-household-income-baltimore-essex-county/blob/master/household%20income%20(white).png)
 
 Here we notice that the sample size of white familes from both cities are closer than that of black families (previous graph). However, the household income of the families from Essex County are generally higher than that of familes from Baltimore, which adds onto the observation and assumption of geography impacting the household income for various reasons that both these cities and delve into deeper to lessen the gap.
 
