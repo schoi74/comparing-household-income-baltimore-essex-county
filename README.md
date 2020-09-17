@@ -5,7 +5,7 @@ On January 30, 2017, Carrie Wells published an [article](https://www.baltimoresu
 
 As Wells mentions how the studys' authors did not make any straightforward recommendations to alleviate the problem or "specific policies", CFED "plans on working with six Baltimore nonprofits over the next year to address economic disparities". It has been three and a half years since the publication of this article, but has there been real progress since then? How do we know if CFED has been successful on closing the economic gap between different racial communities in Baltimore? How is the economic disparity like in my high school's county? We will delve more into the data provided by [Opportunity Atlas](https://www.opportunityatlas.org) to further analyze the economic disparities between black and white communities in Baltimore city and my high school county, Essex county, Massachusetts.
 
-![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/baltimore%20household%20income%201.png)
+![alt text]()
 ## Business Question
 _How can Baltimore city and Essex County, MA both decrease the economic gap of household income between the black and white communities, and what metrics should the cities measure to monitor their progress?_
 ## Data Question - Open Data
