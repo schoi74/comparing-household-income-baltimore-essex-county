@@ -33,7 +33,7 @@ We will use Microsoft Excel to answer these questions:
 ## Data Answer
 
 ### What are the mean household incomes in each city?
-![alt text]()
+![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/average.png)
 
 Here we can see that the household incomes for both black and white families from Essex County are higher than those from Baltimore, MD. Also, within each city, the household income is significantly greater for white families than that of black families. This gives us an overall idea of how geography and race impact the household income and where the cities can start alleviating the disparities in the near future.
 
