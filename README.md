@@ -58,6 +58,28 @@ Here, just like the visualization and data of black families in each city, we fi
 Here we see the top 5 highest average household income families for both black and white families in both cities. We first notice how the household income of white families in Baltimore are nearly double that of black families, which is the problem we seek to resolve and alleviate. On the other hand, even though there is a significant difference in household income between black and white families in Essex County, the degree is not as significant. 
 
 ## Summary
-- 
+- The findings show that, in general, the disparity of household income between black and white families in Baltimore is greater than in Essex County.
+- The demographics of Essex County is notably less diverse than that of Baltimore city.
+- The mean household income of Essex County is greater than that of Baltimore for both black and white families.
+- The differences of the highest average household income of those in Baltimore were considerably substantial than in Essex County.
+- Bigger data availability and additional sample sizes of families in Essex County would be helpful to more directly compare and grasp a better understanding of the status-quo.
+
 
 ## Step-by-Step of Excel Analysis
+1. import raw data for Baltimore and Essex County in an Excel spreadsheet.
+2. Create data sheets for categories: black families, white families, families in Baltimore, families in Essex County.
+3. Create pivot tables for each category into a new sheet.
+4. Put name in rows and household income in values.
+5. By clicking the down arrow on the top of the column, change the sum of household income to average of household income.
+6. By clicking the down arrow on the top of the column, filter the towns to eliminate any data outside of Baltimore city by clicking "contains" then typing in "Baltimore".
+7. Reorganize the data in a descending order of household income.
+8. Change the numerical values into currency ($).
+8. Create pivot charts for the four categories.
+9. Delete the horizontal axis with town names as we are only focused on the household income for each of the four categories.
+9. Gather all the data so far on one sheet to calculate and create a table for the average of each category.
+10. Create an "average" chart.
+11. On another sheet, use vlookups to find the top 5 highest average household income families in both Baltimore and Essex County for the town names and household income.
+12. Create a bar graph of highest average household income families in Baltimore and Essex County.
+13. Add axes titles, chart titles for all the visuals.
+14. Change the color of the bars for Essex County to yellow on the "average" graph.
+
