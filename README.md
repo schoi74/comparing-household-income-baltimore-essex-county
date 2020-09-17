@@ -20,13 +20,13 @@ We'll use open data from one source:
 ## Data Question - Analysis
 We will use Microsoft Excel to answer these questions:
 
+- __What does the household income disparity between the black and white families look like in each city?__ Exploring the visual difference of economic disparity in each city using Pivot Tables and Pivot Charts
+
 - __What are the mean household income for both black and white families in each city?__ Exploring the average household income in each city of both black and white demographics using basic Excel functions
 
 - __How does the household income compare for the black families in both Baltimore, MD and Essex County, MA?__ Exploring the household income for black families in both cities using Pivot Tables and Pivot Charts
 
 - __How does the household income compare for the white families in both Baltimore, MD and Essex County, MA?__ Exploring the household income for white families in both cities using Pivot Tables and Pivot Charts
-
-- __What does the household income disparity between the black and white families look like in each city?__ Exploring the visual difference of economic disparity in each city using Pivot Tables and Pivot Charts
 
 - __What are the highest average household income from black and white families in Baltimore, MD and Essex County, MA?__ Exploring highest average household income by using data reorganization and vlookups. 
 
