@@ -39,7 +39,7 @@ We will use Microsoft Excel to answer these questions:
 ![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/household%20income%20(black).png)
 
 ### How does the household income compare for the white families in each city?
-![alt text]()
+![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/household%20income%20(white).png)
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
 ![alt text]()
