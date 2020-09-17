@@ -12,8 +12,23 @@ _How can Baltimore city and Essex County, MA both decrease the economic gap of h
 We'll use open data from one source:
 - Opportunity Atlas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) We will be using eight datasets from this platform:
   
-     i. 
+     i. Baltimore: Original open data on household income for black and white communities in Baltimore, MD.
+     
+     ii. Essex County: Orginal open data on household income for black and white communiteis in Essex County, MA.
+     
+     iii. It is important to note that there is a difference in demographics in  two regions in terms of diversity of race. There can be margins of error in these household income data as Essex County is a predominantly white county, while Baltimore is more diverse with a bigger black community.
 ## Data Question - Analysis
+We will use Microsoft Excel to answer these questions:
+
+- __What are the mean household income for both black and white communities in each city?__ Exploring the household income for these racial demographics in each city using basic Excel functions
+
+- __How does the household income compare for the black community in both Baltimore, MD and Essex County, MA?__ Exploring the overall household income 
+
+- __How does the household income compare for the white community in both Baltimore, MD and Essex County, MA?__
+
+- __What does the household income disparity between the black and white community look like in each city?__
+
+- __What are the 
 
 ## Data Answer
 
