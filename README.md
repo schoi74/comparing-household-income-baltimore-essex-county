@@ -33,6 +33,7 @@ We will use Microsoft Excel to answer these questions:
 ## Data Answer
 
 ### What are the mean household incomes in each city?
+![alt text](https://github.com/schoi74/comparing-income-employement-rate-baltimore-essex-county/blob/master/average.png)
 
 ### How does the household income compare for the black families in each city?
 
